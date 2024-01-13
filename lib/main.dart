@@ -182,12 +182,12 @@ class MyApp extends StatelessWidget {
               text: const TextSpan(
                 children: [
                   TextSpan(
-                    text: "         G",
+                    text: "\t\t\t\t\t\t\t\t\tG",
                     style: TextStyle(
                       color: Colors.green,
-                      fontSize: 35,
+                      fontSize: 30,
                       fontWeight: FontWeight.bold,
-                      letterSpacing: 3,
+                      letterSpacing: 5,
                     )
                   ),
 
@@ -195,9 +195,9 @@ class MyApp extends StatelessWidget {
                     text: "R",
                     style: TextStyle(
                       color: Colors.red,
-                      fontSize: 45,
+                      fontSize: 41,
                       fontWeight: FontWeight.bold,
-                      letterSpacing: 3,
+                      letterSpacing: 5,
                     )
                   ),
 
@@ -205,19 +205,19 @@ class MyApp extends StatelessWidget {
                     text: "APHICS\n",
                     style: TextStyle(
                       color: Colors.green,
-                      fontSize: 35,
+                      fontSize: 30,
                       fontWeight: FontWeight.bold,
-                      letterSpacing: 3,
+                      letterSpacing: 5,
                     )
                   ),
 
                   TextSpan(
-                    text: " FLUTT",
+                    text: "  FLUTT",
                     style: TextStyle(
                       color: Colors.blue,
-                      fontSize: 35,
+                      fontSize: 30,
                       fontWeight: FontWeight.bold,
-                      letterSpacing: 3,
+                      letterSpacing: 5,
                     )
                   ),
 
@@ -225,9 +225,9 @@ class MyApp extends StatelessWidget {
                     text: "E",
                     style: TextStyle(
                       color: Colors.red,
-                      fontSize: 45,
+                      fontSize: 41,
                       fontWeight: FontWeight.bold,
-                      letterSpacing: 3,
+                      letterSpacing: 5,
                       height: 1.5,
                     )
                   ),
@@ -236,9 +236,9 @@ class MyApp extends StatelessWidget {
                     text: "R\n",
                     style: TextStyle(
                       color: Colors.blue,
-                      fontSize: 35,
+                      fontSize: 30,
                       fontWeight: FontWeight.bold,
-                      letterSpacing: 3,
+                      letterSpacing: 5,
                     )
                   ),
 
@@ -246,9 +246,9 @@ class MyApp extends StatelessWidget {
                     text: "       AN",
                     style: TextStyle(
                       color: Colors.green,
-                      fontSize: 35,
+                      fontSize: 30,
                       fontWeight: FontWeight.bold,
-                      letterSpacing: 3,
+                      letterSpacing: 5,
                     )
                   ),
 
@@ -256,9 +256,9 @@ class MyApp extends StatelessWidget {
                     text: "D",
                     style: TextStyle(
                       color: Colors.red,
-                      fontSize: 45,
+                      fontSize: 41,
                       fontWeight: FontWeight.bold,
-                      letterSpacing: 3,
+                      letterSpacing: 5,
                       height: 1.5,
                     )
                   ),
@@ -267,9 +267,9 @@ class MyApp extends StatelessWidget {
                     text: "ROID\n",
                     style: TextStyle(
                       color: Colors.green,
-                      fontSize: 35,
+                      fontSize: 30,
                       fontWeight: FontWeight.bold,
-                      letterSpacing: 3,
+                      letterSpacing: 5,
                     )
                   ),
 
@@ -277,9 +277,9 @@ class MyApp extends StatelessWidget {
                     text: "DESIGN",
                     style: TextStyle(
                       color: Colors.yellow,
-                      fontSize: 35,
+                      fontSize: 30,
                       fontWeight: FontWeight.bold,
-                      letterSpacing: 3,
+                      letterSpacing: 5.5,
                     )
                   ),
 
@@ -287,9 +287,9 @@ class MyApp extends StatelessWidget {
                     text: "&",
                     style: TextStyle(
                       color: Colors.red,
-                      fontSize: 45,
+                      fontSize: 41,
                       fontWeight: FontWeight.bold,
-                      letterSpacing: 3,
+                      letterSpacing: 5,
                       height: 1.5,
                     )
                   ),
@@ -298,20 +298,20 @@ class MyApp extends StatelessWidget {
                     text: "DEVELOP\n",
                     style: TextStyle(
                       color: Colors.yellow,
-                      fontSize: 35,
+                      fontSize: 30,
                       fontWeight: FontWeight.bold,
-                      letterSpacing: 3,
+                      letterSpacing: 5,
                       height: 1.5,
                     )
                   ),
 
                   TextSpan(
-                    text: "          W",
+                    text: "         W",
                     style: TextStyle(
                       color: Colors.red,
-                      fontSize: 43,
+                      fontSize: 40,
                       fontWeight: FontWeight.bold,
-                      letterSpacing: 3,
+                      letterSpacing: 5,
                       height: 1.5,
                     )
                   ),
@@ -320,9 +320,9 @@ class MyApp extends StatelessWidget {
                     text: "EB\n",
                     style: TextStyle(
                       color: Colors.blue,
-                      fontSize: 35,
+                      fontSize: 30,
                       fontWeight: FontWeight.bold,
-                      letterSpacing: 3,
+                      letterSpacing: 5,
                     )
                   ),
 
@@ -330,9 +330,9 @@ class MyApp extends StatelessWidget {
                     text: "      FAS",
                     style: TextStyle(
                       color: Colors.yellow,
-                      fontSize: 35,
+                      fontSize: 30,
                       fontWeight: FontWeight.bold,
-                      letterSpacing: 3,
+                      letterSpacing: 5,
                       height: 1.5,
                     )
                   ),
@@ -341,9 +341,9 @@ class MyApp extends StatelessWidget {
                     text: "H",
                     style: TextStyle(
                       color: Colors.red,
-                      fontSize: 43,
+                      fontSize: 40,
                       fontWeight: FontWeight.bold,
-                      letterSpacing: 3,
+                      letterSpacing: 5,
                       height: 1.5,
                     )
                   ),
@@ -352,20 +352,20 @@ class MyApp extends StatelessWidget {
                     text: "ION\n",
                     style: TextStyle(
                       color: Colors.yellow,
-                      fontSize: 35,
+                      fontSize: 30,
                       fontWeight: FontWeight.bold,
-                      letterSpacing: 3,
+                      letterSpacing: 5,
                       height: 1.5,
                     )
                   ),
 
                   TextSpan(
-                    text: "ANIMAT",
+                    text: " ANIMAT",
                     style: TextStyle(
                       color: Color(0xff29ADB2),
-                      fontSize: 35,
+                      fontSize: 30,
                       fontWeight: FontWeight.bold,
-                      letterSpacing: 3,
+                      letterSpacing: 4.6,
                       height: 1.5,
                     )
                   ),
@@ -374,9 +374,9 @@ class MyApp extends StatelessWidget {
                     text: "I",
                     style: TextStyle(
                       color: Colors.red,
-                      fontSize: 45,
+                      fontSize: 41,
                       fontWeight: FontWeight.bold,
-                      letterSpacing: 3,
+                      letterSpacing: 5,
                       height: 1.5,
                     )
                   ),
@@ -385,9 +385,9 @@ class MyApp extends StatelessWidget {
                     text: "ON\n",
                     style: TextStyle(
                       color: Color(0xff29ADB2),
-                      fontSize: 35,
+                      fontSize: 30,
                       fontWeight: FontWeight.bold,
-                      letterSpacing: 3,
+                      letterSpacing: 5,
                       height: 1.5,
                     )
                   ),
@@ -396,9 +396,9 @@ class MyApp extends StatelessWidget {
                     text: "           I",
                     style: TextStyle(
                       color: Colors.blue,
-                      fontSize: 35,
+                      fontSize: 30,
                       fontWeight: FontWeight.bold,
-                      letterSpacing: 3,
+                      letterSpacing: 5,
                       height: 1.5,
                     )
                   ),
@@ -407,9 +407,9 @@ class MyApp extends StatelessWidget {
                     text: "T",
                     style: TextStyle(
                       color: Colors.red,
-                      fontSize: 45,
+                      fontSize: 41,
                       fontWeight: FontWeight.bold,
-                      letterSpacing: 3,
+                      letterSpacing: 5,
                       height: 1.5,
                     )
                   ),
@@ -418,9 +418,9 @@ class MyApp extends StatelessWidget {
                     text: "A-CS+\n",
                     style: TextStyle(
                       color: Colors.blue,
-                      fontSize: 35,
+                      fontSize: 30,
                       fontWeight: FontWeight.bold,
-                      letterSpacing: 3,
+                      letterSpacing: 5,
                       height: 1.5,
                     )
                   ),
@@ -429,9 +429,9 @@ class MyApp extends StatelessWidget {
                     text: "     GAM",
                     style: TextStyle(
                       color: Colors.yellow,
-                      fontSize: 35,
+                      fontSize: 30,
                       fontWeight: FontWeight.bold,
-                      letterSpacing: 3,
+                      letterSpacing: 6,
                       height: 1.5,
                     )
                   ),
@@ -440,9 +440,9 @@ class MyApp extends StatelessWidget {
                     text: "E",
                     style: TextStyle(
                       color: Colors.red,
-                      fontSize: 45,
+                      fontSize: 41,
                       fontWeight: FontWeight.bold,
-                      letterSpacing: 3,
+                      letterSpacing: 5,
                       height: 1.5,
                     )
                   ),
